@@ -1,6 +1,8 @@
 In line comments break react-native 56+, as shown below.
 Removing "This comment breaks the app" allows the app to run.
-Comments on lines by themsleves seem to be ok.
+Comments on lines by themselves seem to be ok.
+
+![](screenshot.png)
 
 ```JSX
 export default class App extends Component<Props> {
